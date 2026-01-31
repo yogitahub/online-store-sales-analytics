@@ -64,6 +64,15 @@ online-store-sales-analytics/
 
 ## 📊 Analytics Performed
 
+## 📸 Screenshots
+
+### 🔹 Sales Analytics Output (Python)
+![Sales Analytics Output](screenshot/analytics_output.png)
+
+### 🔹 CSV Sales Report
+![CSV Sales Report](screenshot/sales_report_csv.png)
+
+
 - Total store revenue calculation
 - Top-selling product identification
 - Product-wise total quantity sold
@@ -90,5 +99,4 @@ Run the SQL file:
 ```sql
 SOURCE schema.sql;
 
----
 
